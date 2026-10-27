@@ -27,3 +27,7 @@ peut être essayer de refaire un peu la représentation des histogrammes pour le
 - reformulation des différentes cellules textes
 - création d'un sommaire et séparation du document en grandes parties pour plus de clareté
 - 
+
+
+# Projet qualité de l'air
+- ajouter une discrimination par z-score des outliers ?
